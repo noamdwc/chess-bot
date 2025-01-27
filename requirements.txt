@@ -1,0 +1,6 @@
+python-chess
+chess
+wandb
+optuna
+optuna-integration[wandb]
+gym-chess
